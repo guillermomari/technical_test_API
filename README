@@ -7,6 +7,17 @@ NPM START
 
 (For more infomation read the .env.example file),also you have my API_KEY the next 2 weeks until the interview continue.
 
+
+3- Endpoint:
+
+GET /temp
+
+--> This endpoint returns a object with a message and a boolean response.
+You can choose a latitude and longitude for another location or ping the endpoint without query params and you give Rio IV info.
+
+Also, you can change the filter temperature in .env variables.
+
+
 Thanks for using this API
 
 --- 2021,OCT-18 -19:42:21
