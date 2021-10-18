@@ -1,0 +1,30 @@
+{
+  "name": "technical_test_api",
+  "version": "1.0.0",
+  "description": "technical test for interview with DMI",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guillermomari/technical_test_API_DMI.git"
+  },
+  "author": "Guillermo Mari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guillermomari/technical_test_API_DMI/issues"
+  },
+  "homepage": "https://github.com/guillermomari/technical_test_API_DMI#readme",
+  "dependencies": {
+    "axios": "^0.23.0",
+    "dotenv": "^10.0.0",
+    "fastify": "^3.22.0"
+  },
+  "devDependencies": {
+    "light-my-request": "^4.6.0",
+    "pino-pretty": "^7.1.0",
+    "tap": "^15.0.10"
+  }
+}
