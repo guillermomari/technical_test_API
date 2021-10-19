@@ -4,7 +4,7 @@
   "description": "technical test for interview with DMI",
   "main": "index.js",
   "scripts": {
-    "test": "test",
+    "test": "jest --verbose",
     "start": "node index.js"
   },
   "repository": {
@@ -23,8 +23,6 @@
     "fastify": "^3.22.0"
   },
   "devDependencies": {
-    "light-my-request": "^4.6.0",
-    "pino-pretty": "^7.1.0",
-    "tap": "^15.0.10"
+    "jest": "^27.3.0"
   }
 }
