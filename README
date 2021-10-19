@@ -1,11 +1,11 @@
-1- Please, you must  run the following commands
+1- Run the following commands
 
 NPM INSTALL
 NPM START 
 
-2- Please , you must  set your own variables in a .env file
+2- Set your own variables in a .env file
 
-(For more infomation read the .env.example file),also you have my API_KEY the next 2 weeks until the interview continue.
+(For more infomation read the .env.example file),also you have my API_KEY in .env file.
 
 
 3- Endpoint:
@@ -13,7 +13,7 @@ NPM START
 GET /temp
 
 --> This endpoint returns a object with a message and a boolean response.
-You can choose a latitude and longitude for another location or ping the endpoint without query params and you give Rio IV info.
+You can choose a latitude and longitude for another location,this type of data must be string. Or ping the endpoint without query params and you give Rio IV info.
 
 Also, you can change the filter temperature in .env variables.
 
