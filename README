@@ -17,6 +17,7 @@ You can choose a latitude and longitude for another location or ping the endpoin
 
 Also, you can change the filter temperature in .env variables.
 
+4- You can see Unit Test with Jest library in the API service. 
 
 Thanks for using this API
 
